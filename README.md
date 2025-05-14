@@ -1,14 +1,6 @@
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
-
 # 🚀  EduHive
 
 > Empowering education by connecting learners and educators through a dynamic online platform.
-
----
-
-## 📌 Problem Statement
-
-Problem Statement 3 – Revolutionizing Digital Learning Platforms
 
 ---
 
@@ -20,16 +12,8 @@ The real-world value: democratizing quality education with easy-to-use tools for
 
 ---
 
-## 🧠 Team & Approach
-
-### Team Name:  
-`Team Innovators`
-
 ### Team Members:  
-- Avi Mahajan [@ItsKishnA](https://github.com/ItsKishnA)  
-- Raghav Tandulkar [@itzraghavv](https://github.com/itzraghavv)  
-- RAVINDRANATH A [@Ravindranath04](https://github.com/Ravindranath04) 
-- Om Venkata Srinivas [@SrinivasDevolper](https://github.com/SrinivasDevolper)
+- Avi Mahajan [@ItsKishnA](https://github.com/ItsKishnA)
 
 ### Your Approach:  
 - We adopted a strategic design and implementation methodology focused on a user-centric approach, specifically tailoring   EduHive for students.
@@ -46,16 +30,6 @@ The real-world value: democratizing quality education with easy-to-use tools for
 - Database: Supabase Postgres
 - ORM: Prisma ORM
 - Hosting: Vercel
-
-### Sponsor Technologies Used (if any):
-- [x] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
----
 
 ## ✨ Key Features
 
@@ -74,16 +48,6 @@ Add images, GIFs, or screenshots if helpful!
 
 - Demo Video Link: [View Demo](https://youtu.be/euP7ss4KQlk)
 - Pitch Deck / PPT Link: [View Pitch Deck](https://www.canva.com/design/DAGl1dRg2s4/ma6pbfygN6AThNtBWsL1DQ/edit)
-
----
-
-## ✅ Tasks & Bonus Checklist
-
-- [x] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [x] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [x] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
 
 ---
 
